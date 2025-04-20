@@ -1,1 +1,1 @@
-print ("hello git2 v3.0")
+print ("hello git2 v4.0")
